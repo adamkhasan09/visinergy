@@ -1,0 +1,10 @@
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\bin\Debug\visinergy.exe.config
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\bin\Debug\visinergy.exe
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\bin\Debug\visinergy.pdb
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.csprojAssemblyReference.cache
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.Form1.resources
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.Properties.Resources.resources
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.csproj.GenerateResource.cache
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.csproj.CoreCompileInputs.cache
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.exe
+C:\Users\Nerojeck\source\repos\visinergy\visinergy\obj\Debug\visinergy.pdb
